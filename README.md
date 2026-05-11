@@ -38,17 +38,15 @@ y con el canal 5, asociado al Bearing 3.
 IMS_Bearing_Project/
 │
 ├── data/
-│   ├── raw/              # Datos originales del dataset
-│   └── processed/        # Tablas procesadas
+│   ├── raw/
+│   └── processed/
 │
 ├── notebooks/
 │   └── 01_ims_bearing_analysis.ipynb
 │
 ├── outputs/
-│   ├── figures/          # Gráficos generados
-│   └── tables/           # Tablas exportadas
-│
-├── src/                  # Código auxiliar, si aplica
+│   ├── figures
+│   └── tables/
 │
 └── README.md
 ```
